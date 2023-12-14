@@ -1,0 +1,7 @@
+git init
+git status
+git add
+git commit -m "message"
+git log
+git reset <hash-id>   (unstage)
+git reset <hash-id> --hard  (to delete)
