@@ -5,3 +5,8 @@ git commit -m "message"
 git log
 git reset <hash-id>   (unstage)
 git reset <hash-id> --hard  (to delete)
+to add our code to remote repository (command- git remote add origin Pasteval)
+to link up local and repository use command (git remote --v)
+pushing into the remote repository(git push origin master/main) then it redirected to signin account to authenticate our git hub account
+git clone<repo url>
+git pull origin<repo url>
